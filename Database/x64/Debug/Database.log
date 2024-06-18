@@ -1,0 +1,4 @@
+﻿  Functions.cpp
+D:\My data\IFNTUNG\OOP Pshepinda Roman\C++ Database\Database\Database\Functions.cpp(162,7): warning C4101: 'x': unreferenced local variable
+D:\My data\IFNTUNG\OOP Pshepinda Roman\C++ Database\Database\Database\Functions.cpp(1315,18): warning C4101: 'soldProductData': unreferenced local variable
+  Database.vcxproj -> D:\My data\IFNTUNG\OOP Pshepinda Roman\C++ Database\Database\x64\Debug\Database.exe
